@@ -1,7 +1,3 @@
-UID: 206285524
-
-Name: Yuquan Hong
-
 # Hash Hash Hash
 
 A simple C program that implements two locking strategies for multi-threads in a hash table implementation, which ensures concurrence satety.
